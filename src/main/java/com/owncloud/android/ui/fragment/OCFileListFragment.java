@@ -291,7 +291,6 @@ public class OCFileListFragment extends ExtendedListFragment implements OCFileLi
     }
 
 
-
     /**
      * {@inheritDoc}
      */
