@@ -40,8 +40,6 @@
     <string name="prefs_category_more">יותר</string>
     <string name="prefs_manage_accounts">ניהול חשבונות</string>
     <string name="prefs_passcode">נעילת סיסמא</string>
-    <string name="prefs_fingerprint">נעילה בטביעת אצבע</string>
-    <string name="prefs_fingerprint_notsetup">לא הוגדרו טביעות אצבע.</string>
     <string name="prefs_expert_mode">מצב מומחה</string>
     <string name="prefs_show_hidden_files">הצגת קבצים נסתרים</string>
     <string name="prefs_log_delete_history_button">מחיקת הסטוריה</string>
