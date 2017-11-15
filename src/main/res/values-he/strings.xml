@@ -81,7 +81,7 @@
     <string name="filedetails_select_file">יש לגעת בקובץ כדי להציג פרטים נוספים.</string>
     <string name="filedetails_download">הורדה</string>
     <string name="filedetails_sync_file">סנכרון</string>
-    <string name="action_share">שיתוף</string>
+    <string name="action_send_share">שיתוף</string>
     <string name="common_yes">כן</string>
     <string name="common_no">לא</string>
     <string name="common_ok">אישור</string>

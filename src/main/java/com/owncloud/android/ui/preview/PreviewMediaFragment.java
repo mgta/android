@@ -62,6 +62,7 @@ import com.owncloud.android.media.MediaControlView;
 import com.owncloud.android.media.MediaService;
 import com.owncloud.android.media.MediaServiceBinder;
 import com.owncloud.android.ui.activity.FileActivity;
+import com.owncloud.android.ui.activity.FileDisplayActivity;
 import com.owncloud.android.ui.dialog.ConfirmationDialogFragment;
 import com.owncloud.android.ui.dialog.RemoveFilesDialogFragment;
 import com.owncloud.android.ui.fragment.FileFragment;
@@ -168,7 +169,7 @@ public class PreviewMediaFragment extends FileFragment implements
 
         Bundle bundle = getArguments();
 
-        setFile((OCFile) bundle.getParcelable(FILE));
+        setFile(bundle.getParcelable(FILE));
         mAccount = bundle.getParcelable(ACCOUNT);
         mSavedPlaybackPosition = bundle.getInt(PLAYBACK_POSITION);
         mAutoplay = bundle.getBoolean(AUTOPLAY);
@@ -426,7 +427,7 @@ public class PreviewMediaFragment extends FileFragment implements
 
         if(getFile().isSharedWithMe() && !getFile().canReshare()){
             // additional restriction for this fragment
-            item = menu.findItem(R.id.action_share_file);
+            item = menu.findItem(R.id.action_send_share_file);
             if(item != null){
                 item.setVisible(false);
                 item.setEnabled(false);
@@ -442,8 +443,8 @@ public class PreviewMediaFragment extends FileFragment implements
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.action_share_file: {
-                seeShareFile();
+            case R.id.action_send_share_file: {
+                sendShareFile();
                 return true;
             }
             case R.id.action_open_file_with: {
@@ -457,10 +458,6 @@ public class PreviewMediaFragment extends FileFragment implements
             }
             case R.id.action_see_details: {
                 seeDetails();
-                return true;
-            }
-            case R.id.action_send_file: {
-                sendFile();
                 return true;
             }
             case R.id.action_sync_file: {
@@ -482,20 +479,14 @@ public class PreviewMediaFragment extends FileFragment implements
         setFile(file);
     }
 
-    private void sendFile() {
-        stopPreview(false);
-        mContainerActivity.getFileOperationsHelper().sendDownloadedFile(getFile());
-
-    }
-
     private void seeDetails() {
         stopPreview(false);
         mContainerActivity.showDetails(getFile());
     }
 
-    private void seeShareFile() {
+    private void sendShareFile() {
         stopPreview(false);
-        mContainerActivity.getFileOperationsHelper().showShareFile(getFile());
+        mContainerActivity.getFileOperationsHelper().sendShareFile(getFile(), (FileDisplayActivity) mContainerActivity);
     }
 
     private void prepareVideo() {

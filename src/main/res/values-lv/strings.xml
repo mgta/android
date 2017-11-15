@@ -78,7 +78,7 @@
     <string name="filedetails_select_file">Uzsit uz datnes, lai redzētu papildinformāciju.</string>
     <string name="filedetails_download">Lejupielādēt</string>
     <string name="filedetails_sync_file">Sinhronizēt</string>
-    <string name="action_share">Koplietot</string>
+    <string name="action_send_share">Koplietot</string>
     <string name="common_yes">Jā</string>
     <string name="common_no">Nē</string>
     <string name="common_ok">Labi</string>

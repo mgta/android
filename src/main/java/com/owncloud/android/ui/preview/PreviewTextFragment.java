@@ -361,7 +361,7 @@ public class PreviewTextFragment extends FileFragment {
 
         if(getFile().isSharedWithMe() && !getFile().canReshare()){
             // additional restriction for this fragment
-            item = menu.findItem(R.id.action_share_file);
+            item = menu.findItem(R.id.action_send_share_file);
             if(item != null){
                 item.setVisible(false);
                 item.setEnabled(false);
@@ -376,8 +376,9 @@ public class PreviewTextFragment extends FileFragment {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.action_share_file: {
-                mContainerActivity.getFileOperationsHelper().showShareFile(getFile());
+            case R.id.action_send_share_file: {
+                mContainerActivity.getFileOperationsHelper().sendShareFile(getFile(),
+                        (FileDisplayActivity) mContainerActivity);
                 return true;
             }
             case R.id.action_open_file_with: {
@@ -391,10 +392,6 @@ public class PreviewTextFragment extends FileFragment {
             }
             case R.id.action_see_details: {
                 seeDetails();
-                return true;
-            }
-            case R.id.action_send_file: {
-                sendFile();
                 return true;
             }
             case R.id.action_sync_file: {
@@ -414,10 +411,6 @@ public class PreviewTextFragment extends FileFragment {
      */
     public void updateFile(OCFile file) {
         setFile(file);
-    }
-
-    private void sendFile() {
-        mContainerActivity.getFileOperationsHelper().sendDownloadedFile(getFile());
     }
 
     private void seeDetails() {
