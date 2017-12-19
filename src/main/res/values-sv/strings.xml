@@ -76,7 +76,7 @@
     <string name="uploader_error_message_source_file_not_found">Filen som valdes för uppladdning kan inte hittas. Vänligen dubbelkolla att den existerar.</string>
     <string name="uploader_error_message_source_file_not_copied">Kunde inte kopiera filen till en temporär mapp. Prova att skicka den igen.</string>
     <string name="uploader_upload_files_behaviour">Uppladdningsalternativ:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Flytta filen till Nextcloud-mappen</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Flytta filen till TheBox-mappen</string>
     <string name="uploader_upload_files_behaviour_only_upload">Behåll fil i källmappen</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Radera fil från källmappen</string>
     <string name="file_list_seconds_ago">sekunder sedan</string>
@@ -365,7 +365,7 @@
     <string name="file_migration_failed_not_enough_space">Fel: Otillräckligt utrymme</string>
     <string name="file_migration_failed_not_writable">Fel: Målfil är inte skrivbar</string>
     <string name="file_migration_failed_not_readable">Fel: Källfil kan inte läsas</string>
-    <string name="file_migration_failed_dir_already_exists">Fel: Nextcloud-mapp finns redan</string>
+    <string name="file_migration_failed_dir_already_exists">Fel: TheBox-mapp finns redan</string>
     <string name="file_migration_failed_while_coping">Fel: Misslyckades under migrering</string>
     <string name="file_migration_directory_already_exists">Datamapp finns redan. Välj en av följande:</string>
     <string name="file_migration_override_data_folder">Ersätt</string>
@@ -431,7 +431,7 @@
     <string name="deselect_all">Avmarkera alla</string>
 
     <string name="pref_behaviour_entries_keep_file">behållas i orginalmapp</string>
-    <string name="pref_behaviour_entries_move">flyttas till Nextcloud-mapp</string>
+    <string name="pref_behaviour_entries_move">flyttas till TheBox-mapp</string>
     <string name="pref_behaviour_entries_delete_file">raderas</string>
     <string name="prefs_storage_path">Lagringsplats</string>
     <string name="prefs_common">Vanlig</string>
@@ -490,7 +490,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Väntar på laddning</string>
     <string name="actionbar_search">Sök</string>
-    <string name="files_drop_not_supported">Detta är en Nextcloud-funktion, vänligen uppdatera.</string>
+    <string name="files_drop_not_supported">Detta är en TheBox-funktion, vänligen uppdatera.</string>
     <string name="learn_more">Lär dig mer</string>
     <string name="drawer_synced_folders">Automatisk uppladdning</string>
     <string name="drawer_participate">Hjälp oss att bli bättre</string>

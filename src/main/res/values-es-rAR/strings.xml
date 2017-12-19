@@ -76,7 +76,7 @@
     <string name="uploader_error_message_source_file_not_found">El archivo seleccionado para cargar no fue encontrado. Favor de verificar si el archivo existe.</string>
     <string name="uploader_error_message_source_file_not_copied">No fue posible copiar el archivo a una carpeta temporal. Favor de intentar enviarlo de nuevo.</string>
     <string name="uploader_upload_files_behaviour">Opción de carga:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Mover el archivo a la carpeta de Nextcloud</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Mover el archivo a la carpeta de TheBox</string>
     <string name="uploader_upload_files_behaviour_only_upload">Mantener el archivo en la carpeta de origen</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Borrar el archivo de la carpeta de origen</string>
     <string name="file_list_seconds_ago">hace algunos segundos</string>
@@ -360,7 +360,7 @@
     <string name="file_migration_failed_not_enough_space">Error: Espacio insuficiente</string>
     <string name="file_migration_failed_not_writable">Error: No se puede escribir el archivo de destino</string>
     <string name="file_migration_failed_not_readable">Error: No se puede leer el archivo de origen</string>
-    <string name="file_migration_failed_dir_already_exists">Error: El directorio Nextcloud ya existe </string>
+    <string name="file_migration_failed_dir_already_exists">Error: El directorio TheBox ya existe </string>
     <string name="file_migration_failed_while_coping">Error: Fallo durante la migración</string>
     <string name="file_migration_directory_already_exists">La carpeta de datos ya existe. Seleccione una de las siguientes opciones:</string>
     <string name="file_migration_override_data_folder">Reemplazar</string>
@@ -485,7 +485,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Aguardando la regarga del dispositivo </string>
     <string name="actionbar_search">Buscar</string>
-    <string name="files_drop_not_supported">Esta es una característica de Nextcloud, favor de actualizar.</string>
+    <string name="files_drop_not_supported">Esta es una característica de TheBox, favor de actualizar.</string>
     <string name="learn_more">Conozca más</string>
     <string name="drawer_synced_folders">Carga automática</string>
     <string name="drawer_participate">Participe</string>

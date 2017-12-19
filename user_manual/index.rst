@@ -1,6 +1,6 @@
 .. _contents:
 
-Nextcloud Android App Manual
+TheBox Android App Manual
 ============================
 
 .. toctree::

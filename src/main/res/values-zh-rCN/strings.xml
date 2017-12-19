@@ -78,7 +78,7 @@
     <string name="uploader_error_message_source_file_not_found">没找到要上传的文件。请检查文件是否存在。</string>
     <string name="uploader_error_message_source_file_not_copied">无法拷贝文件到临时文件夹。请尝试重新发送。</string>
     <string name="uploader_upload_files_behaviour">上传选项：</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">移动文件到 Nextcloud 文件夹</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">移动文件到 TheBox 文件夹</string>
     <string name="uploader_upload_files_behaviour_only_upload">在原文件夹中保留文件</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">从原文件夹中删除文件</string>
     <string name="file_list_seconds_ago">几秒前</string>
@@ -376,7 +376,7 @@
     <string name="file_migration_failed_not_enough_space">错误：空间不足</string>
     <string name="file_migration_failed_not_writable">错误：目标文件不可写入</string>
     <string name="file_migration_failed_not_readable">错误：无法读取源文件</string>
-    <string name="file_migration_failed_dir_already_exists">错误：Nextcloud目录已存在</string>
+    <string name="file_migration_failed_dir_already_exists">错误：TheBox目录已存在</string>
     <string name="file_migration_failed_while_coping">错误：迁移失败</string>
     <string name="file_migration_directory_already_exists">数据文件夹已经存在。请选择以下选项：</string>
     <string name="file_migration_override_data_folder">代替</string>
@@ -507,7 +507,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">等待收费</string>
     <string name="actionbar_search">搜索</string>
-    <string name="files_drop_not_supported">这是一个Nextcloud的特征，请更新</string>
+    <string name="files_drop_not_supported">这是一个TheBox的特征，请更新</string>
     <string name="learn_more">学习更多</string>
     <string name="drawer_synced_folders">自动上传</string>
     <string name="drawer_participate">参加</string>

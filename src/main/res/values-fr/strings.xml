@@ -81,7 +81,7 @@
     <string name="uploader_error_message_source_file_not_found">Le fichier à téléverser n\'a pas été trouvé. Merci de vérifier si ce fichier existe.</string>
     <string name="uploader_error_message_source_file_not_copied">Impossible de copier le fichier vers un dossier temporaire. Merci de recommencer votre envoi.</string>
     <string name="uploader_upload_files_behaviour">Option de téléversement :</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Déplacer le fichier dans le dossier Nextcloud</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Déplacer le fichier dans le dossier TheBox</string>
     <string name="uploader_upload_files_behaviour_only_upload">Conserver le fichier dans le dossier original</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Supprimer le fichier du dossier original</string>
     <string name="file_list_seconds_ago">à l\'instant</string>
@@ -407,7 +407,7 @@ Attention la suppression est irréversible.</string>
     <string name="file_migration_failed_not_enough_space">Erreur : Espace insuffisant</string>
     <string name="file_migration_failed_not_writable">Erreur : Le fichier de destination n\'est pas modifiable</string>
     <string name="file_migration_failed_not_readable">Erreur : Le fichier source n\'est pas lisible</string>
-    <string name="file_migration_failed_dir_already_exists">Erreur : Le dossier Nextcloud existe déjà</string>
+    <string name="file_migration_failed_dir_already_exists">Erreur : Le dossier TheBox existe déjà</string>
     <string name="file_migration_failed_while_coping">Erreur : Echec lors de la migration</string>
     <string name="file_migration_failed_while_updating_index">Erreur : Echec lors de la mise à jour de l\'index</string>
 
@@ -545,11 +545,11 @@ Attention la suppression est irréversible.</string>
 
     <string name="uploads_view_upload_status_waiting_for_charging">En attente de recharge de l\'appareil</string>
     <string name="actionbar_search">Rechercher</string>
-    <string name="files_drop_not_supported">Il s\'agit d\'une fonctionnalité de Nextcloud, merci de mettre à jour.</string>
+    <string name="files_drop_not_supported">Il s\'agit d\'une fonctionnalité de TheBox, merci de mettre à jour.</string>
     <string name="learn_more">En savoir plus</string>
     <string name="drawer_synced_folders">Téléversement automatique</string>
     <string name="drawer_participate">Participer</string>
-    <string name="participate_testing_headline">Aidez-nous à améliorer Nextcloud</string>
+    <string name="participate_testing_headline">Aidez-nous à améliorer TheBox</string>
     <string name="participate_testing_bug_text">Vous avez trouvé un bug ? Quelque chose vous semble étrange ?</string>
     <string name="participate_testing_report_text">Signaler un problème sur Github</string>
     <string name="participate_testing_version_text">Vous avez envie de nous aider en testant les futures versions ?</string>
@@ -699,8 +699,8 @@ Attention la suppression est irréversible.</string>
     <string name="resized_image_not_possible">Aucune image réduite disponible. Télécharger l\'image originale ?</string>
     <string name="resized_images_download_full_image">Télécharger l\'image originale ?</string>
 
-    <string name="store_short_desc">L\'application Android Nextcloud vous permet d\'accéder à tous vos fichiers et contenus stockés sur Nextcloud</string>
-    <string name="store_full_desc">L\'application Open Source Nextcloud Android vous permet d\'accéder à tous vos fichiers stockés sur Nextcloud.\n\nFonctionnalités :\n* Interface facile d\'utilisation et moderne, personnalisée avec le même thème que celui du serveur\n* Envoyez vos fichiers sur votre serveur Nextcloud\n* Partagez vos fichiers avec d\'autres personnes\n* Synchronisez vos fichiers et dossiers favoris\n* Recherchez parmi tous vos dossiers situés sur votre serveur\n* Téléversez automatiquement les photos et vidéos prises avec votre appareil\n* Restez à jour grâce aux notifications\n* Gestion du multi comptes\n* Accès sécurisé à vos données avec votre empreinte digitale ou un code pin\n* Intégration avec DAVdroid pour faciliter l\'installation de la synchronisation du Calendrier &amp; des Contacts\n\nMerci de signaler tout problème sur https://github.com/nextcloud/android/issues et venez discuter de cette application sur https://help.nextcloud.com/c/clients/android\n\nVous découvrez Nextcloud ? Nextcloud est un système de synchronisation de fichiers personnels &amp; un serveur de partage. Ce système est entièrement Open Source. Vous pouvez l\'héberger vous-même ou payer une entreprise pour ce service. Vous aurez ainsi le contrôle de vos photos, votre calendrier, vos données de contacts, vos documents et de tout le reste.\n\nPour en savoir plus, consultez le site Nextcloud sur https://nextcloud.com</string>
+    <string name="store_short_desc">L\'application Android TheBox vous permet d\'accéder à tous vos fichiers et contenus stockés sur TheBox</string>
+    <string name="store_full_desc">L\'application Open Source TheBox Android vous permet d\'accéder à tous vos fichiers stockés sur TheBox.\n\nFonctionnalités :\n* Interface facile d\'utilisation et moderne, personnalisée avec le même thème que celui du serveur\n* Envoyez vos fichiers sur votre serveur TheBox\n* Partagez vos fichiers avec d\'autres personnes\n* Synchronisez vos fichiers et dossiers favoris\n* Recherchez parmi tous vos dossiers situés sur votre serveur\n* Téléversez automatiquement les photos et vidéos prises avec votre appareil\n* Restez à jour grâce aux notifications\n* Gestion du multi comptes\n* Accès sécurisé à vos données avec votre empreinte digitale ou un code pin\n* Intégration avec DAVdroid pour faciliter l\'installation de la synchronisation du Calendrier &amp; des Contacts\n\nMerci de signaler tout problème sur https://github.com/mgta/android/issues et venez discuter de cette application sur https://help.thebox.de/c/clients/android\n\nVous découvrez TheBox ? TheBox est un système de synchronisation de fichiers personnels &amp; un serveur de partage. Ce système est entièrement Open Source. Vous pouvez l\'héberger vous-même ou payer une entreprise pour ce service. Vous aurez ainsi le contrôle de vos photos, votre calendrier, vos données de contacts, vos documents et de tout le reste.\n\nPour en savoir plus, consultez le site TheBox sur https://thebox.de</string>
 
     <string name="thumbnail">Miniature</string>
     <string name="sort_by_name_ascending">Trier par ordre alphabétique</string>

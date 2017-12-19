@@ -81,7 +81,7 @@
     <string name="uploader_error_message_source_file_not_found">No se encuentra el archivo seleccionado para subir. Por favor, comprueba que el archivo existe.</string>
     <string name="uploader_error_message_source_file_not_copied">No se ha podido copiar el archivo a una carpeta temporal. Intenta volver a enviarlo.</string>
     <string name="uploader_upload_files_behaviour">Opción de subida:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Mover el archivo a la carpeta de Nextcloud</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Mover el archivo a la carpeta de TheBox</string>
     <string name="uploader_upload_files_behaviour_only_upload">Mantener el archivo en la carpeta original</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Borrar archivo de la carpeta original</string>
     <string name="file_list_seconds_ago">hace segundos</string>
@@ -405,7 +405,7 @@
     <string name="file_migration_failed_not_enough_space">Error: Espacio insuficiente</string>
     <string name="file_migration_failed_not_writable">Error: No se puede escribir el archivo de destino</string>
     <string name="file_migration_failed_not_readable">Error: No se puede leer el archivo de origen</string>
-    <string name="file_migration_failed_dir_already_exists">Error: El directorio de Nextcloud ya existe</string>
+    <string name="file_migration_failed_dir_already_exists">Error: El directorio de TheBox ya existe</string>
     <string name="file_migration_failed_while_coping">Error: Fallo durante la migración</string>
     <string name="file_migration_failed_while_updating_index">Error: Fallo al actualizar el índice</string>
 
@@ -543,7 +543,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Esperando la carga del dispositivo</string>
     <string name="actionbar_search">Buscar</string>
-    <string name="files_drop_not_supported">Esta es una característica de Nextcloud. Por favor, actualice.</string>
+    <string name="files_drop_not_supported">Esta es una característica de TheBox. Por favor, actualice.</string>
     <string name="learn_more">Aprender más</string>
     <string name="drawer_synced_folders">Carga automática</string>
     <string name="drawer_participate">Participar</string>
@@ -697,8 +697,8 @@
     <string name="resized_image_not_possible">No se dispone de la imagen en otros tamaños. ¿Descargar en tamaño completo?</string>
     <string name="resized_images_download_full_image">¿Descargar la imagen completa?</string>
 
-    <string name="store_short_desc">La app de Nextcloud te permite acceder a todos tus archivos en tu Nextcloud</string>
-    <string name="store_full_desc">La app copyleft de software libre Nextcloud para Android te permite acceder a todos tus archivos en tu Nextcloud.\n\nCaracterísticas\n*Interfaz sencilla y moderna, adaptada al tema de tu servidor\n* Sube tus archivos a tu servidor Nextcloud\n* Comparte tus archivos con otros\n* Mantén sincronizados tus archivos y carpetas favoritos\n* Busca en todas las carpetas del servidor\n* Subida automática de fotos y vídeos realizados con tu dispositivo\n* Mantente al tanto de todo mediante las notificaciones\n* Soporte de múltiples cuentas\n* Acceso seguro a tus datos con huella digital o PIN\n* Integración con DAVdroid para configurar fácilmente la sincronización de calendarios y contactos\n\nPor favor, informa de todos los problemas en https://github.com/nextcloud/android/issues y discute la app en https://help.nextcloud.com/c/clients/android\n\n¿Eres nuevo en Nextcloud? Nextcloud es un servidor privado para sincronizar, compartir y comunicarte. Es software libre y puedes alojarlo tú mismo o pagar a una compañía para que lo haga por ti. De esta forma, tienes el control de tus fotos, tus calendarios y los datos de contactos, tus documentos y todo lo demás.\n\nConoce Nextcloud en https://nextcloud.com</string>
+    <string name="store_short_desc">La app de TheBox te permite acceder a todos tus archivos en tu TheBox</string>
+    <string name="store_full_desc">La app copyleft de software libre TheBox para Android te permite acceder a todos tus archivos en tu TheBox.\n\nCaracterísticas\n*Interfaz sencilla y moderna, adaptada al tema de tu servidor\n* Sube tus archivos a tu servidor TheBox\n* Comparte tus archivos con otros\n* Mantén sincronizados tus archivos y carpetas favoritos\n* Busca en todas las carpetas del servidor\n* Subida automática de fotos y vídeos realizados con tu dispositivo\n* Mantente al tanto de todo mediante las notificaciones\n* Soporte de múltiples cuentas\n* Acceso seguro a tus datos con huella digital o PIN\n* Integración con DAVdroid para configurar fácilmente la sincronización de calendarios y contactos\n\nPor favor, informa de todos los problemas en https://github.com/mgta/android/issues y discute la app en https://help.thebox.de/c/clients/android\n\n¿Eres nuevo en TheBox? TheBox es un servidor privado para sincronizar, compartir y comunicarte. Es software libre y puedes alojarlo tú mismo o pagar a una compañía para que lo haga por ti. De esta forma, tienes el control de tus fotos, tus calendarios y los datos de contactos, tus documentos y todo lo demás.\n\nConoce TheBox en https://thebox.de</string>
 
     <string name="drawer_current_account">Cuenta actual</string>
     <string name="drawer_middle_account"> Cuenta media</string>
@@ -731,8 +731,8 @@
     <string name="forward">Adelante</string>
     <string name="what_s_new_image">Imagen de Qué hay de nuevo</string>
 
-    <string name="store_short_dev_desc">Nextcloud Dev es una instantánea de desarrollo y se puede instalar en paralelo</string>
-    <string name="store_full_dev_desc">La Aplicación Android de Código Abierto se deja accede todo su archivos en su Nextcloud.\nEso es una versión de desarollo y incluye características completamente nuevas que pueden conducir a instabilidades y el pérdida de datos. El aplicación es diseñado para usuarios dispuesto a probar los características nuevas y reportar errores si occuren. ¡No lo use para su trabajo productivo!\n\nEl versión de desarollo se puede instalar junto al applicación oficial que esta disponible en F-Droid, también. Uno vez al día, es comprobada para ver si se cambia el código fuente, así que puede haber pausas más largas entre vérsiones.</string>
+    <string name="store_short_dev_desc">TheBox Dev es una instantánea de desarrollo y se puede instalar en paralelo</string>
+    <string name="store_full_dev_desc">La Aplicación Android de Código Abierto se deja accede todo su archivos en su TheBox.\nEso es una versión de desarollo y incluye características completamente nuevas que pueden conducir a instabilidades y el pérdida de datos. El aplicación es diseñado para usuarios dispuesto a probar los características nuevas y reportar errores si occuren. ¡No lo use para su trabajo productivo!\n\nEl versión de desarollo se puede instalar junto al applicación oficial que esta disponible en F-Droid, también. Uno vez al día, es comprobada para ver si se cambia el código fuente, así que puede haber pausas más largas entre vérsiones.</string>
 
     <string name="prefs_category_dev">Dev</string>
     <string name="dev_version_no_information_available">¡No hay información disponible!</string>

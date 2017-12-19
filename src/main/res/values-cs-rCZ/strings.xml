@@ -81,7 +81,7 @@
     <string name="uploader_error_message_source_file_not_found">Soubor k nahrání nebyl v tomto umístění nalezen. Zkontrolujte prosím zda soubor existuje.</string>
     <string name="uploader_error_message_source_file_not_copied">Došlo k chybě při kopírování souboru do dočasného adresáře. Zkuste prosím zopakovat odeslání.</string>
     <string name="uploader_upload_files_behaviour">Nahrát možnost:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Přesunout soubor do Nextcloud adresáře</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Přesunout soubor do TheBox adresáře</string>
     <string name="uploader_upload_files_behaviour_only_upload">Jen uploadovat</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Uploadovat a vymazat ze zdroje</string>
     <string name="file_list_seconds_ago">před pár sekundami</string>
@@ -401,7 +401,7 @@
     <string name="file_migration_failed_not_enough_space">Chyba: Nedostatek volného místa</string>
     <string name="file_migration_failed_not_writable">Chyba: Do cíle nelze zapisovat</string>
     <string name="file_migration_failed_not_readable">Chyba: Soubor nelze číst</string>
-    <string name="file_migration_failed_dir_already_exists">Chyba: Nextcloud adresář již existuje</string>
+    <string name="file_migration_failed_dir_already_exists">Chyba: TheBox adresář již existuje</string>
     <string name="file_migration_failed_while_coping">Chyba: V průběhu migrace</string>
     <string name="file_migration_failed_while_updating_index">Chyba: Nepodařilo se aktualizovat index</string>
 
@@ -541,7 +541,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Čekání na nabití</string>
     <string name="actionbar_search">Hledat</string>
-    <string name="files_drop_not_supported">Toto je Nextcloud funkce, prosím nahrát</string>
+    <string name="files_drop_not_supported">Toto je TheBox funkce, prosím nahrát</string>
     <string name="learn_more">Více</string>
     <string name="drawer_synced_folders">Automatické nahrávání</string>
     <string name="drawer_participate">Zúčastnit se</string>
@@ -696,7 +696,7 @@
     <string name="resized_image_not_possible">Zmenšený obrázek není k dispozici. Stáhnout obrázek v plné velikosti?</string>
     <string name="resized_images_download_full_image">Stáhnout obrázek v plné velikosti?</string>
 
-    <string name="store_short_desc">Aplikace Nextcloud pro Android ti nabízí přístup ke všem souborům ve tvém Nextcloudu</string>
+    <string name="store_short_desc">Aplikace TheBox pro Android ti nabízí přístup ke všem souborům ve tvém TheBoxu</string>
     <string name="drawer_current_account">Aktuální účet</string>
     <string name="drawer_middle_account">Prostřední účet</string>
     <string name="drawer_end_account">Poslední účet</string>
@@ -728,7 +728,7 @@
     <string name="forward">Vpřed</string>
     <string name="what_s_new_image">Obrázek Co je nového</string>
 
-    <string name="store_short_dev_desc">Aplikace Nextcloud Dev je vývojovým snímkem a může být nainstalována paralelně.</string>
+    <string name="store_short_dev_desc">Aplikace TheBox Dev je vývojovým snímkem a může být nainstalována paralelně.</string>
     <string name="prefs_category_dev">Dev</string>
     <string name="dev_version_no_information_available">Žádné informace nejsou dostupné!</string>
     <string name="dev_version_no_new_version_available">Žádná nová verze k dispozici!</string>

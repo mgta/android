@@ -405,7 +405,7 @@
     <string name="file_migration_failed_not_enough_space">Erro: Espaço insuficiente</string>
     <string name="file_migration_failed_not_writable">Erro: Arquivo destino não gravável</string>
     <string name="file_migration_failed_not_readable">Erro: Arquivo fonte ilegível</string>
-    <string name="file_migration_failed_dir_already_exists">Erro: Diretório Nextcloud já existe</string>
+    <string name="file_migration_failed_dir_already_exists">Erro: Diretório TheBox já existe</string>
     <string name="file_migration_failed_while_coping">Erro: Falha durante a migração</string>
     <string name="file_migration_failed_while_updating_index">Erro: Falha ao atualizar o índice</string>
 
@@ -543,7 +543,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Esperando carregar</string>
     <string name="actionbar_search">Pesquisar</string>
-    <string name="files_drop_not_supported">Este é um recurso do Nextcloud. Por favor, atualize.</string>
+    <string name="files_drop_not_supported">Este é um recurso do TheBox. Por favor, atualize.</string>
     <string name="learn_more">Saiba mais</string>
     <string name="drawer_synced_folders">Auto envio</string>
     <string name="drawer_participate">Participar</string>
@@ -697,8 +697,8 @@
     <string name="resized_image_not_possible">Nenhuma image reduzida disponível. Baixar a completa?</string>
     <string name="resized_images_download_full_image">Baixar imagem completa?</string>
 
-    <string name="store_short_desc">O aplicativo Android do Nextcloud permite acesso total aos arquivos do Nextcloud</string>
-    <string name="store_full_desc">O aplicativo Android de código aberto do Nextcloud lhe dá acesso a todos os arquivos em seu Nextcloud.\n\nFeatures:\n* Interface fácil e moderna, adequada ao tema do seu servidor\n* Envia arquivos para seu servidor Nextcloud\n* Compartilhe arquivo com outros\n* Mantenha seus arquivos e pastas favoritas sincronizadas\n* Pesquise em todas as pastas do seu servidor\n* Envio automático para fotos e vídeos tirados pelo seu dispositivo portátil\n* Mantenha-se atualizado com notificações\n* Suporte à multi-conta\n* Acesso seguro aos seus dados com impressão digital ou PIN\n* Integração com o DAVdroid para facilitar a configuração do calendário e &amp; sincronização de contatos\n\nPor favor, informe qualquer problema em https://github.com/nextcloud/android/issues e discuta sobre este aplicativo em https://help.nextcloud.com/c/clients/android\n\nNovo para o Nextcloud? Nextcloud é um servidor privado de sincronização de arquivos  &amp; compartilhamento e comunicação. É um software livre e você pode hospedá-lo você mesmo ou pagar uma empresa para fazê-lo. Dessa forma, você controla suas fotos, seu calendário e dados de contato, seus documentos e tudo mais.\n\nSaiba mais sobre o Nextcloud em https://nextcloud.com</string>
+    <string name="store_short_desc">O aplicativo Android do TheBox permite acesso total aos arquivos do TheBox</string>
+    <string name="store_full_desc">O aplicativo Android de código aberto do TheBox lhe dá acesso a todos os arquivos em seu TheBox.\n\nFeatures:\n* Interface fácil e moderna, adequada ao tema do seu servidor\n* Envia arquivos para seu servidor TheBox\n* Compartilhe arquivo com outros\n* Mantenha seus arquivos e pastas favoritas sincronizadas\n* Pesquise em todas as pastas do seu servidor\n* Envio automático para fotos e vídeos tirados pelo seu dispositivo portátil\n* Mantenha-se atualizado com notificações\n* Suporte à multi-conta\n* Acesso seguro aos seus dados com impressão digital ou PIN\n* Integração com o DAVdroid para facilitar a configuração do calendário e &amp; sincronização de contatos\n\nPor favor, informe qualquer problema em https://github.com/mgta/android/issues e discuta sobre este aplicativo em https://help.thebox.de/c/clients/android\n\nNovo para o TheBox? TheBox é um servidor privado de sincronização de arquivos  &amp; compartilhamento e comunicação. É um software livre e você pode hospedá-lo você mesmo ou pagar uma empresa para fazê-lo. Dessa forma, você controla suas fotos, seu calendário e dados de contato, seus documentos e tudo mais.\n\nSaiba mais sobre o TheBox em https://thebox.de</string>
 
     <string name="drawer_current_account">Conta atual</string>
     <string name="drawer_middle_account">Conta média</string>
@@ -732,7 +732,7 @@
     <string name="what_s_new_image">Imagem nova</string>
 
     <string name="store_short_dev_desc">O aplicativo Desenvolvimento é um instantâneo e pode ser instalado em paralelo.</string>
-    <string name="store_full_dev_desc">O aplicativo Open Source Nextcloud para Android permite que você acesse seus arquivos no Nextcloud.\nEsta é uma versão de desenvolvimento do aplicativo Nextcloud oficial e inclui novos recursos não testados que podem levar a instabilidades e perda de dados. O aplicativo foi projetado para usuários dispostos a testar os novos recursos e a reportar erros caso ocorram. Não use em ambiente de produção!\n\nA versão de desenvolvimento pode ser instalada paralela ao aplicativo oficial Nextcloud que está disponível no F-Droid também. Uma vez por dia, é verificado se o código-fonte foi atualizado, portanto podem haver pausas mais longas entre as compilações.</string>
+    <string name="store_full_dev_desc">O aplicativo Open Source TheBox para Android permite que você acesse seus arquivos no TheBox.\nEsta é uma versão de desenvolvimento do aplicativo TheBox oficial e inclui novos recursos não testados que podem levar a instabilidades e perda de dados. O aplicativo foi projetado para usuários dispostos a testar os novos recursos e a reportar erros caso ocorram. Não use em ambiente de produção!\n\nA versão de desenvolvimento pode ser instalada paralela ao aplicativo oficial TheBox que está disponível no F-Droid também. Uma vez por dia, é verificado se o código-fonte foi atualizado, portanto podem haver pausas mais longas entre as compilações.</string>
 
     <string name="prefs_category_dev">Desenvolvimento</string>
     <string name="dev_version_no_information_available">Sem informação disponível!</string>

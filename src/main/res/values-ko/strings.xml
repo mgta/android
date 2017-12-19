@@ -77,7 +77,7 @@
     <string name="uploader_error_message_source_file_not_found">업로드 하려고 선택한 파일을 찾을 수 없습니다. 파일이 존재하는지 확인하세요.</string>
     <string name="uploader_error_message_source_file_not_copied">파일을 임시 폴더에 저장할 수 없습니다. 재전송을 시도해 보세요.</string>
     <string name="uploader_upload_files_behaviour">업로드 설정:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Nextcloud 폴더로 파일 이동</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">TheBox 폴더로 파일 이동</string>
     <string name="uploader_upload_files_behaviour_only_upload">소스 폴더에 파일 보관</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">소스 폴더에서 파일 삭제</string>
     <string name="file_list_seconds_ago">초 전</string>
@@ -310,7 +310,7 @@
     <string name="file_migration_failed_not_enough_space">오류: 용량 부족</string>
     <string name="file_migration_failed_not_writable">오류: 대상 파일 쓰기 불가</string>
     <string name="file_migration_failed_not_readable">오류: 원본 파일 읽기 불가</string>
-    <string name="file_migration_failed_dir_already_exists">오류: Nextcloud 폴더가 이미 존재합니다</string>
+    <string name="file_migration_failed_dir_already_exists">오류: TheBox 폴더가 이미 존재합니다</string>
     <string name="file_migration_failed_while_coping">오류: 마이그레이션 실패</string>
     <string name="file_migration_directory_already_exists">데이터 폴더가 이미 존재합니다. 다음 중 하나를 고르세요:</string>
     <string name="file_migration_override_data_folder">바꾸기</string>
@@ -398,7 +398,7 @@
     <string name="manage_space_error">몇몇 파일을 삭제할 수 없음</string>
 
     <string name="actionbar_search">검색</string>
-    <string name="files_drop_not_supported">이것은 Nextcloud 기능입니다, 업데이트하십시오.</string>
+    <string name="files_drop_not_supported">이것은 TheBox 기능입니다, 업데이트하십시오.</string>
     <string name="learn_more">자세히 알아보기</string>
     <string name="drawer_synced_folders">자동 업로드</string>
     <string name="drawer_participate">참여</string>

@@ -82,7 +82,7 @@
 </string>
     <string name="uploader_error_message_source_file_not_copied">Es ist ein Fehler beim Kopieren dieser Datei in einen temporären Ordner aufgetreten. Bitte erneut versuchen die Datei zu senden.</string>
     <string name="uploader_upload_files_behaviour">Upload Option:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Datei in Nextcloud Ordner verschieben</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Datei in TheBox Ordner verschieben</string>
     <string name="uploader_upload_files_behaviour_only_upload">Hochladen und im Quellordner behalten</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Hochladen und Datei im Quellordner löschen</string>
     <string name="file_list_seconds_ago">Gerade eben</string>
@@ -406,7 +406,7 @@
     <string name="file_migration_failed_not_enough_space">Fehler: Nicht ausreichender Speicherplatz</string>
     <string name="file_migration_failed_not_writable">Fehler: Für das Ziel existieren keine Schreibrechte</string>
     <string name="file_migration_failed_not_readable">Fehler: Quelldatei kann nicht gelesen werden</string>
-    <string name="file_migration_failed_dir_already_exists">Fehler: Nextcloud-Verzeichnis existiert bereits</string>
+    <string name="file_migration_failed_dir_already_exists">Fehler: TheBox-Verzeichnis existiert bereits</string>
     <string name="file_migration_failed_while_coping">Fehler: Fehler bei der Migration</string>
     <string name="file_migration_failed_while_updating_index">Fehler: Aktualisierung des Index fehlgeschlagen</string>
 
@@ -545,7 +545,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Warte auf das Aufladen des Gerätes</string>
     <string name="actionbar_search">Suche</string>
-    <string name="files_drop_not_supported">Dies ist eine Nextcloud Funktion, bitte updaten.</string>
+    <string name="files_drop_not_supported">Dies ist eine TheBox Funktion, bitte updaten.</string>
     <string name="learn_more">Mehr</string>
     <string name="drawer_synced_folders">Automatisches Hochladen</string>
     <string name="drawer_participate">Mitmachen</string>
@@ -699,8 +699,8 @@
     <string name="resized_image_not_possible">Kein verkleinertes Bild vorhanden. Vollbild herunterladen?</string>
     <string name="resized_images_download_full_image">Originalbild herunterladen?</string>
 
-    <string name="store_short_desc">Die Nextcloud App erlaubt Dir Zugriff auf alle Dateien in Deiner Nextcloud </string>
-    <string name="store_full_desc">Die Open Source Nextcloud Android App ermöglicht Dir Zugriff auf alle Dateien in Deiner Nextcloud.\n\nFunktionen:\n* Einfache, moderne Oberfläche, volles Theming entsprechend Deiner Servereinstellungen\n* Lade Deine Dateien auf Deinen Nextcloud Server\n* Teile Deine Dateien mit anderen\n* Wichtige Dateien und Verzeichnisse können aktuell gehalten werden\n* Suche über alle Ordner auf deinem Server\n* Auto Upload für Fotos und Videos die auf deinem Gerät aufgenommen wurden\n* Bleibe auf dem aktuellen Stand durch Benachrichtigungen\n* Multi-Konten Unterstützung\n* Gesicherter Zugriff auf deine Daten mittels Fingerabdruck oder PIN\n* Integration mit DAVdroid für eine einfache Kalender &amp; Kontakte Synchronisierung\n\nBitte berichte alle Probleme unter https://github.com/nextcloud/android/issues oder diskutiere über die App auf https://help.nextcloud.com/c/clients/android\n\nWas ist die Nextcloud? Die Nextcloud ist ein privater Dateiaustausch Server. Nextcloud ist Open Source und kann auf einem eigenen Server installiert werden. So behältst Du die Kontrolle über Deine Fotos, Deine Kalender und Kontakte, Deine Dokumente und alle anderen Daten. \n\nSieh Dir Nextcloud unter https://nextcloud.com an.</string>
+    <string name="store_short_desc">Die TheBox App erlaubt Dir Zugriff auf alle Dateien in Deiner TheBox </string>
+    <string name="store_full_desc">Die Open Source TheBox Android App ermöglicht Dir Zugriff auf alle Dateien in Deiner TheBox.\n\nFunktionen:\n* Einfache, moderne Oberfläche, volles Theming entsprechend Deiner Servereinstellungen\n* Lade Deine Dateien auf Deinen TheBox Server\n* Teile Deine Dateien mit anderen\n* Wichtige Dateien und Verzeichnisse können aktuell gehalten werden\n* Suche über alle Ordner auf deinem Server\n* Auto Upload für Fotos und Videos die auf deinem Gerät aufgenommen wurden\n* Bleibe auf dem aktuellen Stand durch Benachrichtigungen\n* Multi-Konten Unterstützung\n* Gesicherter Zugriff auf deine Daten mittels Fingerabdruck oder PIN\n* Integration mit DAVdroid für eine einfache Kalender &amp; Kontakte Synchronisierung\n\nBitte berichte alle Probleme unter https://github.com/mgta/android/issues oder diskutiere über die App auf https://help.thebox.de/c/clients/android\n\nWas ist die TheBox? Die TheBox ist ein privater Dateiaustausch Server. TheBox ist Open Source und kann auf einem eigenen Server installiert werden. So behältst Du die Kontrolle über Deine Fotos, Deine Kalender und Kontakte, Deine Dokumente und alle anderen Daten. \n\nSieh Dir TheBox unter https://thebox.de an.</string>
 
     <string name="drawer_current_account">Aktuelles Konto</string>
     <string name="drawer_middle_account">Mittleres Konto</string>

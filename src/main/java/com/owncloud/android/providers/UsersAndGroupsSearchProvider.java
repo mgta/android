@@ -121,7 +121,7 @@ public class UsersAndGroupsSearchProvider extends ContentProvider {
      * Reference: http://developer.android.com/guide/topics/search/adding-custom-suggestions.html#CustomContentProvider
      *
      * @param uri           Content {@link Uri}, formattted as
-     *                      "content://com.nextcloud.android.providers.UsersAndGroupsSearchProvider/" +
+     *                      "content://de.thebox.android.providers.UsersAndGroupsSearchProvider/" +
      *                      {@link android.app.SearchManager#SUGGEST_URI_PATH_QUERY} + "/" + 'userQuery'
      * @param projection    Expected to be NULL.
      * @param selection     Expected to be NULL.

@@ -81,7 +81,7 @@
     <string name="uploader_error_message_source_file_not_found">Yüklenmek üzere seçilmiş dosya bulunamadı. Lütfen dosyanın var olup olmadığını denetleyin.</string>
     <string name="uploader_error_message_source_file_not_copied">Dosya geçici bir klasöre kopyalanırken sorun çıktı. Lütfen yeniden göndermeyi deneyin.</string>
     <string name="uploader_upload_files_behaviour">Yükleme seçeneği:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Dosya Nextcloud klasörüne taşınsın</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Dosya TheBox klasörüne taşınsın</string>
     <string name="uploader_upload_files_behaviour_only_upload">Dosya kaynak klasörde tutulsun</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Dosya kaynak klasörden silinsin</string>
     <string name="file_list_seconds_ago">saniyeler önce</string>
@@ -405,7 +405,7 @@
     <string name="file_migration_failed_not_enough_space">Hata: Disk alanı yetersiz</string>
     <string name="file_migration_failed_not_writable">Hata: Hedef dosya yazılabilir değil</string>
     <string name="file_migration_failed_not_readable">Hata: Kaynak dosya okunabilir değil</string>
-    <string name="file_migration_failed_dir_already_exists">Hata: Nextcloud klasörü zaten var</string>
+    <string name="file_migration_failed_dir_already_exists">Hata: TheBox klasörü zaten var</string>
     <string name="file_migration_failed_while_coping">Hata: Aktarım sırasında sorun çıktı</string>
     <string name="file_migration_failed_while_updating_index">Hata: Dizin güncellenemedi</string>
 
@@ -543,7 +543,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Aygıtın şarj olması bekleniyor</string>
     <string name="actionbar_search">Arama</string>
-    <string name="files_drop_not_supported">Bu bir Nextcloud özelliğidir, lütfen güncelleyin.</string>
+    <string name="files_drop_not_supported">Bu bir TheBox özelliğidir, lütfen güncelleyin.</string>
     <string name="learn_more">Ayrıntılı bilgi alın</string>
     <string name="drawer_synced_folders">Otomatik yükleme</string>
     <string name="drawer_participate">Katkıda bulunun</string>
@@ -697,8 +697,8 @@
     <string name="resized_image_not_possible">Boyutu değiştirilmiş bir görsel yok. Tam görsel indirilsin mi?</string>
     <string name="resized_images_download_full_image">Tam görsel indirilsin mi?</string>
 
-    <string name="store_short_desc">Nextcloud Android uygulaması Nextcloud üzerindeki tüm dosyalarınıza erişmenizi sağlar.</string>
-    <string name="store_full_desc">Copyleft Nextcloud Android uygulaması, Nextcloud üzerindeki tüm dosyalarınıza erişmenizi sağlar.\n\nÖzellikleri:\* Kolay kullanılan modern arayüz\n* Dosyalarınızı Nextcloud sunucunuza kolayca yükleyebilme\n* Dosyalarınızı başkalarıyla paylaşabilme\n* Sık kullandığınız dosya ve klasörleri eşitleme\n* Çektiğiniz fotoğraf ve görüntüleri anında yükleme\n* Birden çok hesap desteği\nKullanımda karşılaşabileceğiniz hataları https://github.com/nextcloud/android/issues adresinden bildirebilir, uygulama hakkındaki konuları https://help.nextcloud.com adresinde tartışabilirsiniz ;-)\n\nNextcloud ile yeni mi tanıştınız? Nextcloud özel bir veri depolama ve paylaşma ağıdır. Tamamen açık kaynak kodludur. Dosyalarınızı kendi sunucunuzda saklayabileceğiniz gibi ücretli hizmet olarak da satın alabilirsiniz. Böylece fotoğraflarınız, dosyalarınız, takviminiz, belgeleriniz, kişileriniz ve diğer tüm özel bilgileriniz sizin kontrolünüzde olur. \n\nAyrıntılı bilgi almak için sitemize bakabilirsiniz: https://nextcloud.com</string>
+    <string name="store_short_desc">TheBox Android uygulaması TheBox üzerindeki tüm dosyalarınıza erişmenizi sağlar.</string>
+    <string name="store_full_desc">Copyleft TheBox Android uygulaması, TheBox üzerindeki tüm dosyalarınıza erişmenizi sağlar.\n\nÖzellikleri:\* Kolay kullanılan modern arayüz\n* Dosyalarınızı TheBox sunucunuza kolayca yükleyebilme\n* Dosyalarınızı başkalarıyla paylaşabilme\n* Sık kullandığınız dosya ve klasörleri eşitleme\n* Çektiğiniz fotoğraf ve görüntüleri anında yükleme\n* Birden çok hesap desteği\nKullanımda karşılaşabileceğiniz hataları https://github.com/mgta/android/issues adresinden bildirebilir, uygulama hakkındaki konuları https://help.thebox.de adresinde tartışabilirsiniz ;-)\n\nTheBox ile yeni mi tanıştınız? TheBox özel bir veri depolama ve paylaşma ağıdır. Tamamen açık kaynak kodludur. Dosyalarınızı kendi sunucunuzda saklayabileceğiniz gibi ücretli hizmet olarak da satın alabilirsiniz. Böylece fotoğraflarınız, dosyalarınız, takviminiz, belgeleriniz, kişileriniz ve diğer tüm özel bilgileriniz sizin kontrolünüzde olur. \n\nAyrıntılı bilgi almak için sitemize bakabilirsiniz: https://thebox.de</string>
 
     <string name="drawer_current_account">Geçerli hesap</string>
     <string name="drawer_middle_account">Orta hesap</string>
@@ -731,8 +731,8 @@
     <string name="forward">İlet</string>
     <string name="what_s_new_image">Yenilikler görseli</string>
 
-    <string name="store_short_dev_desc">Nextcloud Dev uygulaması paralel olarak kurulabilen geliştirme sürümü örneğidir.</string>
-    <string name="store_full_dev_desc">Açık Kaynaklı Nextcloud Android uygulaması ile Nextcloud üzerindeki tüm dosyalarınıza erişebilirsiniz.\nBu sürüm resmi Nextcloud uygulamasının geliştirici sürümüdür ve kararsız çalışan ve veri kaybına yol açabilecek yeterince sınanmamış yeni özellikleri bulundurur. Bu sürüm yeni özellikleri sınamak ve hataları bildirmek isteyen kullanıcılar için tasarlanmıştır. Bu sürümü günlük kullanımınız için kullanmayın.\nGeliştirici sürümü F-Droid üzerinde de bulunur ve resmi Nexcloud uygulaması ile aynı anda kurulup kullanılabilir. Günde bir kez güncellemeler denetlenir ve yeni bir sürüm varsa yüklenir. Bu nedenle sürümler arasında daha uzun süreler olabilir.</string>
+    <string name="store_short_dev_desc">TheBox Dev uygulaması paralel olarak kurulabilen geliştirme sürümü örneğidir.</string>
+    <string name="store_full_dev_desc">Açık Kaynaklı TheBox Android uygulaması ile TheBox üzerindeki tüm dosyalarınıza erişebilirsiniz.\nBu sürüm resmi TheBox uygulamasının geliştirici sürümüdür ve kararsız çalışan ve veri kaybına yol açabilecek yeterince sınanmamış yeni özellikleri bulundurur. Bu sürüm yeni özellikleri sınamak ve hataları bildirmek isteyen kullanıcılar için tasarlanmıştır. Bu sürümü günlük kullanımınız için kullanmayın.\nGeliştirici sürümü F-Droid üzerinde de bulunur ve resmi Nexcloud uygulaması ile aynı anda kurulup kullanılabilir. Günde bir kez güncellemeler denetlenir ve yeni bir sürüm varsa yüklenir. Bu nedenle sürümler arasında daha uzun süreler olabilir.</string>
 
     <string name="prefs_category_dev">Geliştirici</string>
     <string name="dev_version_no_information_available">Herhangi bir bilgi yok!</string>

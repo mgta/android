@@ -47,8 +47,8 @@ version = '1.0.0'
 release = '1.0.0'
 
 # General information about the project.
-project = u'Nextcloud Android App %s Manual' % (version)
-copyright = u'2016, The Nextcloud developers'
+project = u'TheBox Android App %s Manual' % (version)
+copyright = u'2016, The TheBox developers'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,8 +185,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'NextcloudAndroidAppManual.tex', u'Nextcloud Android App Manual',
-   u'The Nextcloud developers', 'manual'),
+  ('index', 'TheBoxAndroidAppManual.tex', u'TheBox Android App Manual',
+   u'The TheBox developers', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,9 +216,9 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('nextcloud.1', 'nextcloud', u'Android synchronisation and file management utility.',
-     [u'The Nextcloud developers'], 1),
-    ('nextcloudcmd.1', 'nextcloudcmd', u'Nextcloud Android app.',
-     [u'The Nextcloud developers'], 1),
+     [u'The TheBox developers'], 1),
+    ('nextcloudcmd.1', 'nextcloudcmd', u'TheBox Android app.',
+     [u'The TheBox developers'], 1),
 ]
 
 # If true, show URL addresses after external links.
@@ -231,8 +231,8 @@ man_show_urls = True
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'NextcloudClientManual', u'ownCloud Android App Manual',
-   u'The Nextcloud developers', 'ownCloud', 'The ownCloud Android App Manual.',
+  ('index', 'TheBoxClientManual', u'ownCloud Android App Manual',
+   u'The TheBox developers', 'ownCloud', 'The ownCloud Android App Manual.',
    'Miscellaneous'),
 ]
 
@@ -249,10 +249,10 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Nextcloud Android App Manual'
-epub_author = u'The Nextcloud developers'
-epub_publisher = u'The Nextcloud developers'
-epub_copyright = u'2016, The Nextcloud developers'
+epub_title = u'TheBox Android App Manual'
+epub_author = u'The TheBox developers'
+epub_publisher = u'The TheBox developers'
+epub_copyright = u'2016, The TheBox developers'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

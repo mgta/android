@@ -81,7 +81,7 @@
     <string name="uploader_error_message_source_file_not_found">Не удалось найти файл для загрузки. Убедитесь, что файл существует.</string>
     <string name="uploader_error_message_source_file_not_copied">Произошла ошибка во время копирования этого файла во временный каталог. Пожалуйста попробуйте отправить его заново.</string>
     <string name="uploader_upload_files_behaviour">Настройка загрузки:</string>
-    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Переместить файл в каталог Nextcloud</string>
+    <string name="uploader_upload_files_behaviour_move_to_nextcloud_folder">Переместить файл в каталог TheBox</string>
     <string name="uploader_upload_files_behaviour_only_upload">Оставить файл в исходном каталоге</string>
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">Удалить файл из исходного каталога</string>
     <string name="file_list_seconds_ago">несколько секунд назад</string>
@@ -409,7 +409,7 @@
     <string name="file_migration_failed_not_enough_space">Ошибка: недостаточно места</string>
     <string name="file_migration_failed_not_writable">Ошибка: файл назначения недоступен для записи</string>
     <string name="file_migration_failed_not_readable">Ошибка: исходный файл недоступен для чтения</string>
-    <string name="file_migration_failed_dir_already_exists">Ошибка: каталог Nextcloud уже существует</string>
+    <string name="file_migration_failed_dir_already_exists">Ошибка: каталог TheBox уже существует</string>
     <string name="file_migration_failed_while_coping">Ошибка: не удалось выполнить перенос</string>
     <string name="file_migration_failed_while_updating_index">Ошибка: не удалось обновить индекс</string>
 
@@ -551,7 +551,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Ожидание зарядки устройства</string>
     <string name="actionbar_search">Поиск</string>
-    <string name="files_drop_not_supported">Это есть в новой версии Nextcloud, пожалуйста обновитесь</string>
+    <string name="files_drop_not_supported">Это есть в новой версии TheBox, пожалуйста обновитесь</string>
     <string name="learn_more">Узнать больше</string>
     <string name="drawer_synced_folders">Автоматическая загрузка</string>
     <string name="drawer_participate">Участие</string>
@@ -626,7 +626,7 @@
     <string name="whats_new_auto_upload_content">\u2022 для всех версий платформы Android\n\u2022 уменьшенный расход батареи\n\u2022 более гибкое, но не мгновенное\n\u2022 разделение изображений &amp; и видеофайлов</string>
 
     <string name="whats_new_search_title">Поиск по всему серверу</string>
-    <string name="whats_new_search_content">\u2022 а не только в текущем каталоге\n\u2022 Показываются результаты поиска по всему серверу\n\u2022 Непосредственный переход к файлам или каталогам\n\u2022 Поддерживается начиная с версии Nextcloud Server 12</string>
+    <string name="whats_new_search_content">\u2022 а не только в текущем каталоге\n\u2022 Показываются результаты поиска по всему серверу\n\u2022 Непосредственный переход к файлам или каталогам\n\u2022 Поддерживается начиная с версии TheBox Server 12</string>
 
     <string name="whats_new_theming_title">Поддержка тем оформления</string>
     <string name="whats_new_theming_content">При включении тем оформления на сервере будут использованы указанные\n\u2022 фоновое изображение\n\u2022 имя сервера\n\u2022 разные аккаунты отображаются разными цветами</string>
@@ -707,7 +707,7 @@
     <string name="resized_image_not_possible">Масштабированное изображение недоступно.  Скачать полноразмерное изображение?</string>
     <string name="resized_images_download_full_image">Скачать полноразмерное изображение?</string>
 
-    <string name="store_short_desc">Приложение Nextcloud для Android предоставляет доступ к файлам из вашего Nextcloud</string>
+    <string name="store_short_desc">Приложение TheBox для Android предоставляет доступ к файлам из вашего TheBox</string>
     <string name="drawer_current_account">Текущая учётная запись</string>
     <string name="contactlist_item_icon">Значок пользователя в списке контактов</string>
     <string name="activity_icon">Значок события</string>
@@ -735,5 +735,5 @@
     <string name="forward">Вперёд</string>
     <string name="what_s_new_image">Изображение «что нового»</string>
 
-    <string name="store_short_dev_desc">Разрабатываемая версия Nextcloud может быть установлена совместно с обычной.</string>
+    <string name="store_short_dev_desc">Разрабатываемая версия TheBox может быть установлена совместно с обычной.</string>
     </resources>
